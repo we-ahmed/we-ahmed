@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @we-ahmed
+- 👋 Hi, I’m weam ahmed
 - 👀 I’m interested in education in science and programming
 - 🌱 I’m currently learning C#
 - 
